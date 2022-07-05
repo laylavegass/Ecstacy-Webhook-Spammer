@@ -7,7 +7,7 @@ from time import strftime, gmtime
 
 
 #webhook link
-web ="Webhook Here"
+web ="https://discord.com/api/webhooks/993669283148218479/m9O5inJHMQZyFkq1EtPq7NN9KAdn6iAaug7z8KRAPVLHqlqn1cr2t719Si5VKjYZ988L"
 
 #colors
 a = fg('#a005ed')
@@ -17,7 +17,7 @@ b = attr('reset')
 rando=["solar#7777","not solar","Define#0001","not Define"]
 
 #webhook message
-spam="@everyone discord.gg/define"
+spam="@everyone https://discord.gg/rQp88ut2"
 
 #webhook avatars
 avatars = cycle(["https://media.discordapp.net/attachments/778720320035094550/808181516483166228/ec35695c38b97ea470a3d8761930f5d7.png", "https://preview.redd.it/nx4jf8ry1fy51.gif?format=png8&s=a5d51e9aa6b4776ca94ebe30c9bb7a5aaaa265a6", "https://icon-library.com/images/yellow-discord-icon/yellow-discord-icon-15.jpg"])
